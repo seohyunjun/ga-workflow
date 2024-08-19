@@ -13,7 +13,6 @@ on:
       - v*
 
 jobs:
-
   setup_release:
     name: Create Release
     runs-on: ubuntu-latest
